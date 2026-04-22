@@ -18,4 +18,4 @@ for (let i = 0; i < projetos.length; i++) {
 }
 
 // Após conflito (etapa final)
-console.log("Conflito resolvido com sucesso!");
+console.log("Conflito resolvido!");
