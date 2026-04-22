@@ -2,7 +2,7 @@ console.log("Projeto iniciado!");
 
 // Função do botão
 function mostrarMensagem() {
-    alert("Obrigado por visitar meu portifólio!!");
+    alert("Obrigado por visitar nosso portifólio!!");
 }
 
 // Lista dinâmica (extra)
