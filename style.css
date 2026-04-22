@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
