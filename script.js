@@ -2,7 +2,7 @@ console.log("Projeto iniciado!");
 
 // Função do botão
 function mostrarMensagem() {
-    alert("Obrigado por visitar meu portfólio!");
+    alert("Obrigado por visitar meu portifólio!");
 }
 
 // Lista dinâmica (extra)
@@ -18,4 +18,4 @@ for (let i = 0; i < projetos.length; i++) {
 }
 
 // Após conflito (etapa final)
-console.log("Conflito resolvido!");
+console.log("Conflito resolvido com sucesso!");
